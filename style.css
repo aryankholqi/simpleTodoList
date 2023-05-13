@@ -1,0 +1,17 @@
+.todo-box {
+    background-color: #EEEEEE;
+    padding: 1rem;
+    border-radius: 0.7rem;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.complete-todo {
+    margin-right: 0.5rem;
+    text-decoration: l;
+}
+.mark-todo {
+    text-decoration: line-through;
+    color: gray;
+}
